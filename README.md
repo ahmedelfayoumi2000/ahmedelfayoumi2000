@@ -12,7 +12,7 @@
 - 👨🏿‍💻 I'm a Back End .NET Developer.
 - 👨🏼‍🎓 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💻 I have studied Front End Using Augular and Back End .NET at Information Technology Institute (ITI).
-
+<img src="https://github.com/ahmedelfayoumi2000/ahmedelfayoumi2000/blob/main/profile-img%20(1).png" align="right" width="25%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-elfayoumi-el2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-elfayoumi-el2003/" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/ahmed_ayman1.05?fbclid=IwY2xjawF_ZL5leHRuA2FlbQIxMAABHX0qmFKqJqJ6Zk7sIbKLDimCnUXEpUCXWXLkb-KgOGJa8cGpkks8n3qDDA_aem_60fni9eJJkBg3RT4dWXK7Q" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[mohammed sallam](https://www.instagram.com/ahmed_ayman1.05?fbclid=IwY2xjawF_ZL5leHRuA2FlbQIxMAABHX0qmFKqJqJ6Zk7sIbKLDimCnUXEpUCXWXLkb-KgOGJa8cGpkks8n3qDDA_aem_60fni9eJJkBg3RT4dWXK7Q)" height="30" width="40" />
 </a>
-<img src="https://github.com/ahmedelfayoumi2000/ahmedelfayoumi2000/blob/main/profile-img%20(1).png" align="right" width="25%"/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
