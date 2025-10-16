@@ -8,8 +8,7 @@
   </a>
 </p>
 
-- 👨🏼‍🎓 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💻 I have studied Front End Using Augular and Back End .NET at Information Technology Institute (ITI).
+- 💻I have honed my skills in Frontend development with Angular and Backend development with .NET Core through professional training at the Information Technology Institute (ITI).
 <img src="https://github.com/ahmedelfayoumi2000/ahmedelfayoumi2000/blob/main/profile-img%20(1).png" align="right" width="25%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
